@@ -46,6 +46,11 @@
   opacity: 0;
   transform: translateY(0);
 }
+.carousel {
+  margin: 0 auto;
+  max-width: 500px;
+  width: 500px;
+}
 .tabs {
   width: 100%;
 }
@@ -125,4 +130,7 @@ body {
   font-size: 24px;
   padding-bottom: 10px;
   font-weight: bold;
+}
+.d-block {
+  display: block;
 }

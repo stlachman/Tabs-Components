@@ -51,6 +51,17 @@
   max-width: 500px;
   width: 500px;
 }
+.carousel-navigation {
+  text-align: center;
+}
+.carousel-navigation button {
+  background: #931d25;
+  border: 0;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: #ffffff;
+  font-size: 16px;
+}
 .tabs {
   width: 100%;
 }
